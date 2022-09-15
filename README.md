@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @pavanpyla
-- 🌱 I’m currently pursuing pg in data science
+- 🌱 I’m intrested in AI/ML
+- I'm currently pursuing my Msc. in DataScience and Computing 
+- To reach me : pavanpyla2163@gmail.com 
 
 <!---
 pavanpyla/pavanpyla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
